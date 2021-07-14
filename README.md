@@ -1,6 +1,34 @@
-### Hi there 👋
+### Angel Mora | Full Stack Developer and Data Analyst 👋
+
+#### My credentials
+
+<div style="display: flex;">
+
+  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Check my contributions!
+
+![image](https://github-readme-stats.vercel.app/api?username=angel-mora&theme=blue-green)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-mora&theme=blue-green)
 
 <!--
+Must documentation inspiration: https://github.com/nebulab/playbook
 **angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,27 +41,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-# 🌏 Welcome to my little world 🌍
 
-Thank you for checking my GitHub page! Here's everything I'm working on.
+## Baos Life
 
-## CLI / TUI
-
-* :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers and creators [Golang].
-* 💼 [gocket](https://github.com/Phantas0s/gocket) - CLI / TUI for Pocket [Golang].
-* ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
-* 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
-
-## Web App
-
-* 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make a clone of Buffer. [ARCHIVED] [PHP/Vue.js].
+* 🤝 [Baos Life](https://github.com/Phantas0s/sharetoall) - An attempt to make a clone of Buffer. [ARCHIVED] [PHP/Vue.js].
 
 ## Books
 
-* 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
-* 📗 [Soft Skills For Developers](https://thesoftskills.dev) - The book I'm currently writing for developers to improve their soft skills.
+* 📙 [Estado y Economía desde Tiqqun: Perspectivas de Acción Crítica](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
+* 📗 [Lee Esto para Hacer un Cambio Real](https://thesoftskills.dev) - The book I'm currently writing for developers to improve their soft skills.
 
 ## Mentoring
 
@@ -73,3 +90,35 @@ I'm always happy to help as much as I can.
 * 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu), one tweet at a time.
 
 It might get some time for me to answer, but I promise I'll do.
+
+-->
+
+# 🌏 Welcome to my work! 🌍
+
+Thank you for checking my GitHub page! Here's everything I'm working on.
+
+![image](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
+Support my career as software developer and I will thank you!
+
+<div style="display:flex;">
+
+  ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+  ![image](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)
+
+  ![image](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+  ![image](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+
+  ![image](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+
+</div>
+
+### Make your own awesome README with this great inspiration
+
+- [150 badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk=)
+
+- [Badgen.net](https://badgen.net/=)
+
+- [README templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/)
