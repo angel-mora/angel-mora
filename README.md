@@ -29,23 +29,28 @@
 
 <!--
 Must documentation inspiration: https://github.com/nebulab/playbook
-**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I started up an Open Source project on my own GitHub SpecTech organization, to create templates for both Ruby on Rails and Python Django to handle Geographic Information Systems.
+- I created a Nutrition Application with an incredible Business Professor from Anahuac University. It's called Baos and will be available in the public domain very soon!
+- 🌱 I’m learning Math foundations to improve my understanding of complex Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on Ruby on Rails based projects that require a User Interface design. Flows with Figma and React are a nice to have. If it involves libraries like Reveal.js, Leaflet.js or Kepler.gl for the front end, that would be triple awesome!!
+- 🤔 I’m looking for help with *emacs* org-mode based Zettelkasten research. I know a lot of people who is doing great work at it and would like to connect these workflows with Pinboard (best bookmarking service of the world) API. Would also love a hand to help me with Sigma.js or D3.js, they are both awesome to me!
+- 💬 Ask me about Editorial Automation, I am an Open Source librarian by heart.
+- 📫 How to reach me: Send me an email!
+- 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
 
+## Nutrition Application
 
-## Baos Life
+* 🤝 [Baos Life](https://baos-life.herokuapp.com) - An awesome nutrition app made in Mexico. [Rails/React/Docker/Heroku/AWS3].
 
-* 🤝 [Baos Life](https://github.com/Phantas0s/sharetoall) - An attempt to make a clone of Buffer. [ARCHIVED] [PHP/Vue.js].
+## Private Customer
+
+* 🌱 [PostGIS Business Intelligence and Reporting](www.google.com) - A cool application to visualize data geographically, provide visual analytics and handle import/export data features.
+
+<!--
 
 ## Books
 
@@ -76,22 +81,23 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 💻 [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole [Mouseless Development Environment](https://themouseless.dev/).
 * 🔷 [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
 
+
+* 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
+
+-->
+
 ## Misc
 
-* ❓ [Questions I ask to companies during an interview](https://github.com/Phantas0s/questions-job-interview) - Decades of experience being interviewed as well as some experience hiring for companies.
-* 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang/Hugo].
-* 🌱 [Garden of Thoughts](https://github.com/Phantas0s/garden) - My (very young) [digital garden](https://matthieucneude.com/garden/) [Golang/Hugo].
+* ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
+* 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/) [Ruby/Jekyll].
 
 ## Let's Connect!
 
 I'm always happy to help as much as I can.
-
-* 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
-* 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu), one tweet at a time.
+* 🦚 I'm trying to share my work and the best professional content in find in [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
 
 It might get some time for me to answer, but I promise I'll do.
 
--->
 
 # 🌏 Welcome to my work! 🌍
 
