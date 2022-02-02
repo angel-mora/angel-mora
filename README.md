@@ -33,7 +33,7 @@ Must documentation inspiration: https://github.com/nebulab/playbook
 
 Some things about me:
 
-- 🔭 I started up an Open Source project on my own GitHub SpecTech organization, to create templates for both Ruby on Rails and Python Django to handle Geographic Information Systems.
+- 🔭 I started up an Open Source project on my own GitHub organization, to create templates for both Ruby on Rails and Python Django to handle Geographic Information Systems with the latest React-based visualization tools like Kepler.gl.
 - I created a Nutrition Application with an incredible Business Professor from Anahuac University. It's called Baos and will be available in the public domain very soon!
 - 🌱 I’m learning Math foundations to improve my understanding of complex Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Ruby on Rails based projects that require a User Interface design. Flows with Figma and React are a nice to have. If it involves libraries like Reveal.js, Leaflet.js or Kepler.gl for the front end, that would be triple awesome!!
