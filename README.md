@@ -2,7 +2,7 @@
 
 #### My credentials
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
 
   ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
