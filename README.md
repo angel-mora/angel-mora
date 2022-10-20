@@ -52,6 +52,13 @@ Some things about me:
 
 <!--
 
+## My Projects
+
+disonancias.org
+spectech.world
+angelmora.tech
+org-bookmarks-sync
+
 ## Books
 
 * 📙 [Estado y Economía desde Tiqqun: Perspectivas de Acción Crítica](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
@@ -91,6 +98,8 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
 * 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/) [Ruby/Jekyll].
 
+
+
 ## Let's Connect!
 
 I'm always happy to help as much as I can.
@@ -128,3 +137,4 @@ Support my career as software developer and I will thank you!
 - [Badgen.net](https://badgen.net/=)
 
 - [README templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/)
+
