@@ -39,14 +39,6 @@ I’m looking for help with *emacs* org-mode based Zettelkasten research. I know
 Must documentation inspiration: https://github.com/nebulab/playbook
 **angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Nutrition Application
-
-* 🤝 [Baos Life](https://baos-life.herokuapp.com) - An awesome nutrition app made in Mexico. [Rails/React/Docker/Heroku/AWS3].
-
-## Private Customer
-
-* 🌱 [PostGIS Business Intelligence and Reporting](www.google.com) - A cool application to visualize data geographically, provide visual analytics and handle import/export data features.
-
 <!--
 
 ## My Projects
