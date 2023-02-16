@@ -20,12 +20,11 @@
 - 🌎 [OpenGeoData in America](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Organization to develop and mantain full-stack templates to handle Geographic Information Systems with the latest React-based visualization tools like [Kepler GL](kepler.gl).
 - 🌱 [Data Structures and Algorithms blog]()
 - 👯 Visualize my favorite libraries [here]()
-I’m looking for help with *emacs* org-mode based Zettelkasten research. I know a lot of people who is doing great work at it and would like to connect these workflows with Pinboard (best bookmarking service of the world) API. Would also love a hand to help me with Sigma.js or D3.js, they are both awesome to me!
 - 💬 Ask me about Editorial Automation, I am an Open Source librarian by heart.
+- 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/).
 - 📫 How to reach me: Send me an email!
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
 - ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
-* 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/)[Ruby/Jekyll].
 
 #### Check my contributions!
 
