@@ -47,6 +47,14 @@ Welcome to my GitHub page! Here's everything I'm working on.
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
 - ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) is a good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
 
+### TODOs
+- [ ] Enable suscription plans (urls to work properly).
+- [ ] Plan specific projects to have a website.
+- [ ] Obsidian Publish page to hold a couple of them. Include BibTex.
+- [ ] Create portfolio
+- [ ] Deploy portfolio
+- [ ] Add newsletter to portfolio
+
 ### My Projects
 
 - 🕸️ Check my personal website.
