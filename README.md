@@ -14,16 +14,18 @@
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 </div>
 
-### About me
+### About Me
 
-- 🔭 I started up an Open Source project on my own GitHub organization, to create templates for both Ruby on Rails and Python Django to handle Geographic Information Systems with the latest React-based visualization tools like Kepler.gl.
-- I created a Nutrition Application with an incredible Business Professor from Anahuac University. It's called Baos and will be available in the public domain very soon!
-- 🌱 I’m learning Math foundations to improve my understanding of complex Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Ruby on Rails based projects that require a User Interface design. Flows with Figma and React are a nice to have. If it involves libraries like Reveal.js, Leaflet.js or Kepler.gl for the front end, that would be triple awesome!!
-- 🤔 I’m looking for help with *emacs* org-mode based Zettelkasten research. I know a lot of people who is doing great work at it and would like to connect these workflows with Pinboard (best bookmarking service of the world) API. Would also love a hand to help me with Sigma.js or D3.js, they are both awesome to me!
+- 🔭 [Obsidian-based Social Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Pull your local files, organize your content, share with your friends, and much more...
+- 🌎 [OpenGeoData in America](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Organization to develop and mantain full-stack templates to handle Geographic Information Systems with the latest React-based visualization tools like [Kepler GL](kepler.gl).
+- 🌱 [Data Structures and Algorithms blog]()
+- 👯 Visualize my favorite libraries [here]()
+I’m looking for help with *emacs* org-mode based Zettelkasten research. I know a lot of people who is doing great work at it and would like to connect these workflows with Pinboard (best bookmarking service of the world) API. Would also love a hand to help me with Sigma.js or D3.js, they are both awesome to me!
 - 💬 Ask me about Editorial Automation, I am an Open Source librarian by heart.
 - 📫 How to reach me: Send me an email!
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
+- ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
+* 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/)[Ruby/Jekyll].
 
 #### Check my contributions!
 
@@ -88,20 +90,12 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 -->
 
-## Misc
-
-* ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
-* 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/) [Ruby/Jekyll].
-
-
 
 ## Let's Connect!
 
-I'm always happy to help as much as I can.
-* 🦚 I'm trying to share my work and the best professional content in find in [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
+* 🦚 I share my work and the best professional content in find in 🕴️ [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
 
 It might get some time for me to answer, but I promise I'll do.
-
 
 # 🌏 Welcome to my work! 🌍
 
@@ -111,25 +105,17 @@ Thank you for checking my GitHub page! Here's everything I'm working on.
 
 Support my career as software developer and I will thank you!
 
-<div style="display:flex;">
+<div align="center">
 
   ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-
   ![image](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)
-
   ![image](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
   ![image](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
-
   ![image](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
-
 </div>
 
 ### Make your own awesome README with this great inspiration
 
 - [150 badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk=)
-
 - [Badgen.net](https://badgen.net/=)
-
 - [README templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/)
-
