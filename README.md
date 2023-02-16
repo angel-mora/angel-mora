@@ -16,26 +16,33 @@ Welcome to my GitHub page! Here's everything I'm working on.
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+  
   ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+  
   ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
+  ![RubyGems](https://img.shields.io/static/v1?style=for-the-badge&message=RubyGems&color=E9573F&logo=RubyGems&logoColor=FFFFFF&label=)
+  
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
+  
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+  
+  ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
+  ![Leaflet](https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=199900&logo=Leaflet&logoColor=FFFFFF&label=)
 </div>
-
-TODO Add the following technologies:
-- TailwindCSS
-- Hotwire
-- AWS
-- React
-- Redux
-- MongoDB
-- ElasticSearch
 
 ### About Me
 
 - 💎 5+ years of experience with Ruby and Rails (monolith and API).
 - 📘 Big fan of Markdown, BibTex, LaTeX, Pandoc and Bash Automation.
 - 📚 Open Source Librarian by heart.
+- 🏫 Microverse Alumni.
 - 📫 Want to reach me? Send me an email!
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
 - ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) is a good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
@@ -106,8 +113,9 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Let's Connect!
 
-* 🦚 I share my work and the best professional content in find in 🕴️ [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
-It might get some time for me to answer, but I promise I'll do.
+🦚 I share my work and the best professional content in find in 🕴️ [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
+
+🐢 It might get some time for me to answer, but I promise I'll do.
 
 <div align="center">
   
