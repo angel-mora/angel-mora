@@ -1,4 +1,13 @@
+<div align="center">
+
+# 🌏 Welcome to my work! 🌍
+
 ## Angel Mora | Full Stack Ruby on Rails Developer 👋
+</div>
+
+Thank you for checking my GitHub page! Here's everything I'm working on.
+
+![image](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ### My credentials
 
@@ -16,15 +25,22 @@
 
 ### About Me
 
-- 🔭 [Obsidian-based Social Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Pull your local files, organize your content, share with your friends, and much more...
-- 🌎 [OpenGeoData in America](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Organization to develop and mantain full-stack templates to handle Geographic Information Systems with the latest React-based visualization tools like [Kepler GL](kepler.gl).
-- 🌱 [Data Structures and Algorithms blog]()
-- 👯 Visualize my favorite libraries [here]()
-- 💬 Ask me about Editorial Automation, I am an Open Source librarian by heart.
-- 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/).
-- 📫 How to reach me: Send me an email!
+- 💎 5+ years of experience with Ruby and Rails (monolith and API).
+- 📘 Big fan of Markdown, BibTex, LaTeX, Pandoc and Bash Automation.
+- 📚 Open Source Librarian by heart.
+- 📫 Want to reach me? Send me an email!
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
-- ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) - A good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
+- ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) is a good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
+
+### My Projects
+
+- 🕸️ Check my personal website.
+- 🔭 Creating an [Obsidian-based Social Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Pull your local files, organize your content, share with your friends, and much more...
+- 🌎 Founder of [OpenGeoData in America](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Organization to develop and mantain full-stack templates to handle Geographic Information Systems with the latest React-based visualization tools like [Kepler GL](kepler.gl).
+- 🌱 Read my [Data Structures and Algorithms blog]()
+- 👯 Visualize my favorite libraries [here]()
+- 💬 I'm writing [LEPHUCR](), a book about Critical Theory of Technology and 2015 Activism.
+- 🌱 [Disonancias](https://github.com/spec-tech/disonancias) - My Critical Theory Magazine [experiment](https://disonancias.org/).
 
 #### Check my contributions!
 
@@ -76,28 +92,19 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 💻 [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole [Mouseless Development Environment](https://themouseless.dev/).
 * 🔷 [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
 
-
-* 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
-
 -->
 
+* 📨 You can subscribe to the [newsletter of my blog](https://google.com/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
 
 ## Let's Connect!
 
 * 🦚 I share my work and the best professional content in find in 🕴️ [LinkedIn](https://linkedin.com/in/angelmoradev), you can send me a message!
-
 It might get some time for me to answer, but I promise I'll do.
 
-# 🌏 Welcome to my work! 🌍
-
-Thank you for checking my GitHub page! Here's everything I'm working on.
-
-![image](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-Support my career as software developer and I will thank you!
-
 <div align="center">
-
+  
+Support my career as software developer and I will thank you!
+  
   ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
   ![image](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)
   ![image](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
