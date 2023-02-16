@@ -1,37 +1,20 @@
-### Angel Mora | Full Stack Developer and Data Analyst 👋
+## Angel Mora | Full Stack Ruby on Rails Developer 👋
 
-#### My credentials
+### My credentials
 
-<div style="display: flex; flex-direction: row;">
-
+<div align="center">
+  
   ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
   ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
   ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 </div>
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-#### Check my contributions!
-
-![image](https://github-readme-stats.vercel.app/api?username=angel-mora&theme=blue-green)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-mora&theme=blue-green)
-
-<!--
-Must documentation inspiration: https://github.com/nebulab/playbook
-**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Some things about me:
+### About me
 
 - 🔭 I started up an Open Source project on my own GitHub organization, to create templates for both Ruby on Rails and Python Django to handle Geographic Information Systems with the latest React-based visualization tools like Kepler.gl.
 - I created a Nutrition Application with an incredible Business Professor from Anahuac University. It's called Baos and will be available in the public domain very soon!
@@ -41,6 +24,18 @@ Some things about me:
 - 💬 Ask me about Editorial Automation, I am an Open Source librarian by heart.
 - 📫 How to reach me: Send me an email!
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
+
+#### Check my contributions!
+
+<div align="center">
+  
+  ![image](https://github-readme-stats.vercel.app/api?username=angel-mora&theme=blue-green)
+  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-mora&theme=blue-green)
+</div>
+
+<!--
+Must documentation inspiration: https://github.com/nebulab/playbook
+**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Nutrition Application
 
