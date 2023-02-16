@@ -1,13 +1,12 @@
 <div align="center">
 
-# 🌏 Welcome to my work! 🌍
-
-## Angel Mora | Full Stack Ruby on Rails Developer 👋
+# Angel Mora | Full Stack Ruby on Rails Developer 👋
+## 🌏 Welcome to my work! 🌍
 </div>
 
-Thank you for checking my GitHub page! Here's everything I'm working on.
-
 ![image](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
+Welcome to my GitHub page! Here's everything I'm working on.
 
 ### My credentials
 
@@ -22,6 +21,15 @@ Thank you for checking my GitHub page! Here's everything I'm working on.
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 </div>
+
+TODO Add the following technologies:
+- TailwindCSS
+- Hotwire
+- AWS
+- React
+- Redux
+- MongoDB
+- ElasticSearch
 
 ### About Me
 
