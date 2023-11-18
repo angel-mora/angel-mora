@@ -47,14 +47,6 @@ Welcome to my GitHub page! Here's everything I'm working on.
 - 😄 Fun fact: I wanted to be a singer but I play guitar better than singing, ouch!
 - ❓ [Best questions to ask in an interview](https://github.com/Phantas0s/questions-job-interview) is a good article from the [awesome creator](https://github.com/Phantas0s) of this markdown profile template.
 
-### TODOs
-- [ ] Enable suscription plans (urls to work properly).
-- [ ] Plan specific projects to have a website.
-- [ ] Obsidian Publish page to hold a couple of them. Include BibTex.
-- [ ] Create portfolio
-- [ ] Deploy portfolio
-- [ ] Add newsletter to portfolio
-
 ### My Projects
 
 - 🕸️ Check my personal website.
@@ -75,21 +67,18 @@ Welcome to my GitHub page! Here's everything I'm working on.
 
 <!--
 Must documentation inspiration: https://github.com/nebulab/playbook
-**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!--
+**angel-mora/angel-mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## My Projects
 
-disonancias.org
-spectech.world
-angelmora.tech
-org-bookmarks-sync
+angelmora.work
+disonancias.biz
+speculative-technologies.com
 
 ## Books
 
-* 📙 [Estado y Economía desde Tiqqun: Perspectivas de Acción Crítica](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
-* 📗 [Lee Esto para Hacer un Cambio Real](https://thesoftskills.dev) - The book I'm currently writing for developers to improve their soft skills.
+* 📗 [Read This To Make A Real Change](https://rt2mkr.io) - A book with contemporary political theory thoughts from 2015.
 
 ## Mentoring
 
@@ -97,7 +86,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 * 💎 [The Valuable Dev](https://thevaluable.dev/) - Increase your value as a developer.
 * 📽 [The Mouseless Dev](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg) - Videos about mouseless tools and processes.
-* 📝 [The Mouseless Dev Blog](https://themouseless.dev/posts/) - Transcripts of my Youtube videos.
+* 📝 [The Mouseless Dev Blog](https://themouseless.dev/posts/) - Transcripts of useful Youtube videos.
 
 ## Self study
 
@@ -114,10 +103,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 🎆 [Dotfiles](https://github.com/Phantas0s/.dotfiles) - All the configuration files for the different applications I'm using.
 * 💻 [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole [Mouseless Development Environment](https://themouseless.dev/).
 * 🔷 [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
-
--->
-
-* 📨 You can subscribe to the [newsletter of my blog](https://google.com/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
+* 📨 TODO: You can subscribe to the [newsletter of my blog](https://google.com/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
 
 ## Let's Connect!
 
