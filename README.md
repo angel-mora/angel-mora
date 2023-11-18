@@ -49,7 +49,7 @@ Welcome to my GitHub page! Here's everything I'm working on.
 
 ### My Projects
 
-- 🕸️ Check my personal website.
+- 🕸️ Check [my personal website](https://www.angelmora.work).
 - 🔭 Creating an [Obsidian-based Social Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Pull your local files, organize your content, share with your friends, and much more...
 - 🌎 Founder of [OpenGeoData in America](https://www.youtube.com/watch?v=dQw4w9WgXcQ): Organization to develop and mantain full-stack templates to handle Geographic Information Systems with the latest React-based visualization tools like [Kepler GL](kepler.gl).
 - 🌱 Read my [Data Structures and Algorithms blog]()
