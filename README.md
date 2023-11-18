@@ -72,9 +72,9 @@ Must documentation inspiration: https://github.com/nebulab/playbook
 
 ## My Projects
 
-angelmora.work
-disonancias.biz
-speculative-technologies.com
+- [angelmora.work](https://www.angelmora.work)
+- [dissonances.biz](https://www.dissonances.biz)
+- [speculative-technologies.com](https://www.speculative-technologies.com)
 
 ## Books
 
