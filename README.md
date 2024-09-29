@@ -3,7 +3,9 @@
 # Angel Mora | Full Stack Ruby on Rails Developer 👋
 ## 🌏 Welcome to my work! 🌍
 </div>
+
 <div align="center">
+  
   ![image](https://ForTheBadge.com/images/badges/built-with-love.svg)
 </div>
 Welcome to my GitHub page! Here's everything I'm working on.
