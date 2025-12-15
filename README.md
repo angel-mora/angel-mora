@@ -1,6 +1,6 @@
 <div align="center">
 
-# Angel Mora | Full Stack Ruby on Rails Developer 👋
+# Angel Mora | Senior Fullstack Ruby on Rails Developer 👋
 ## 🌏 Welcome to my work! 🌍
 </div>
 
@@ -22,12 +22,7 @@ Welcome to my GitHub page! Here's everything I'm working on.
   ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
   
   ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-  ![Ruby Sinatra](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label=)
-  ![RubyGems](https://img.shields.io/static/v1?style=for-the-badge&message=RubyGems&color=E9573F&logo=RubyGems&logoColor=FFFFFF&label=)
-  
   ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-  ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
   
   ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
@@ -38,7 +33,7 @@ Welcome to my GitHub page! Here's everything I'm working on.
 
 ### About Me
 
-- 💎 5+ years of experience with Ruby and Rails (monolith and API).
+- 💎 6+ years of experience with Ruby and Rails (monolith and API).
 - 📘 Big fan of Markdown, BibTex, LaTeX, Pandoc and Bash Automation.
 - 📚 Open Source Librarian by heart.
 - 🏫 Microverse Alumni.
