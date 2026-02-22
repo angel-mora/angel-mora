@@ -141,4 +141,5 @@ If you’re working on **Rails products**, **Geographic Information Systems**, *
 
 If my work has been useful and you want to support it:
 
-[Bitcoin](https://example.com) · [Liberapay](https://example.com) · [PayPal](https://paypal.com) · [Ko‑fi](https://example.com) · [Patreon](https://example.com)
+[Bitcoin](https://example.com) · [Liberapay](https://example.com) · [PayPal](https://paypal.me/angelmoma) · [Ko‑fi](https://example.com) · [Patreon](https://example.com)
+todo: agregar gumroad
