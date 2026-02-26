@@ -131,9 +131,8 @@ If you’re working on **Rails products**, **Geographic Information Systems**, *
 
 ## GitHub stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-mora&theme=blue-green)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-mora&theme=blue-green)
-
+![GitHub followers](https://img.shields.io/github/followers/angel-mora?style=for-the-badge&logo=github&label=Followers)
+![GitHub user stars](https://img.shields.io/github/stars/angel-mora?style=for-the-badge&logo=github&label=User%20stars)
 
 ---
 
